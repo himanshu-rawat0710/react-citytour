@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+$mainBlack:#110B11;
+$mainGreen:#82b340;
+$mainWhite:#E7ECEF;
+$mainGrey:#E3DFFF;
+
+
+
+
+
+body {
+  // font-family: 'Piedra', cursive;
+
+  font-family: 'Roboto', sans-serif;
+  background: $mainWhite;
+  color: $mainBlack
+}
